@@ -16,7 +16,6 @@ Sou Técnico em Informática para Internet pelo IFES - Serra e tenho experiênci
 ### Projeto 1: Chef em Casa
 - **Descrição**: Um site de receitas fáceis criado para a matéria Projeto Integrador. O objetivo é facilitar o acesso a receitas práticas e deliciosas, permitindo que qualquer pessoa ser um Chef em Casa.
 - **Tecnologias Utilizadas**: HTML, JavaScript, Java, CSS, SQL, etc.
-- **Link do Projeto**: [Link para o repositório ou site do projeto]
 
 ## Contato
 
