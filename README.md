@@ -22,7 +22,7 @@
 
 ### Projeto 1: Chef em Casa
 - **Descrição**: Um site de receitas fáceis criado para a matéria Projeto Integrador. O objetivo é facilitar o acesso a receitas práticas e deliciosas, permitindo que qualquer pessoa possa cozinhar em casa com facilidade.
-- **Tecnologias Utilizadas**: HTML, JavaScript, Java, CSS, SQL, etc.
+- **Tecnologias Utilizadas**: HTML, JavaScript, PHP, Java, CSS, SQL, etc.
 
 ## Contato
 
