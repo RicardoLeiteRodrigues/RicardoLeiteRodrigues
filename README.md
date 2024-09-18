@@ -29,5 +29,3 @@
 - **Email**: [ricardoleiterodriguesbe@gmail.com]
 
 ---
-
-Obrigado por visitar meu perfil! Vamos nos conectar e colaborar em projetos incríveis! 🚀
