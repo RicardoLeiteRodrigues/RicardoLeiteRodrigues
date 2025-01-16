@@ -1,4 +1,4 @@
-## Olá! Eu sou o Ricardo Leite! 👋
+## Olá! Eu sou o Ricardo Leite!
 
 🖥 Técnico em Informática para Internet (IFES - Serra) <br>
 💡 Experiência em desenvolvimento com Python e SQL <br>
